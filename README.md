@@ -1,4 +1,4 @@
-# Find-Emoji
+# Emoji Util
 
 A Simple Library To Find And Remove Emojis
 
@@ -30,10 +30,11 @@ Add it in your root build.gradle at the end of repositories:
   ## Step 2. Add the dependency
   
   <pre class="kode code-toolbar  language-css"><code id="depCodeGradle" class=" kode  language-css">	<span class="token selector">dependencies</span> <span class="token punctuation">{</span>
-	        implementation <span class="token string">'com.github.CormacKrum:Find-Emoji:Tag'</span>
+	        implementation <span class="token string">'com.github.CormacKrum:EmojiUtil:Tag'</span>
 	<span class="token punctuation">}</span>
 </code></pre>
 
 <p>Share this release:</p>
 
-[![](https://jitpack.io/v/CormacKrum/Find-Emoji.svg)](https://jitpack.io/#CormacKrum/Find-Emoji)
+[![](https://jitpack.io/v/CormacKrum/EmojiUtil.svg)](https://jitpack.io/#CormacKrum/EmojiUtil)
+
