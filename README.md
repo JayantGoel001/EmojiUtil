@@ -2,7 +2,7 @@
 
 A Simple Library To Find And Remove Emojis
 
-![](https://www.github.com/CormacKrum/Find-Emoji/emojis.png)
+![](https://github.com/CormacKrum/Find-Emoji/blob/master/emojis.png)
 
 <div class="row">
 		<div class="col-lg-10">
