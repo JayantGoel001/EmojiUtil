@@ -36,5 +36,5 @@ Add it in your root build.gradle at the end of repositories:
 
 <p>Share this release:</p>
 
-[![](https://jitpack.io/v/CormacKrum/EmojiUtil.svg)](https://jitpack.io/#CormacKrum/EmojiUtil)
+![](https://jitpack.io/v/CormacKrum/EmojiUtil.svg)](https://jitpack.io/#CormacKrum/EmojiUtil)
 
