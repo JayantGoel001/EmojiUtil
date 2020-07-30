@@ -30,7 +30,7 @@ Add it in your root build.gradle at the end of repositories:
   ## Step 2. Add the dependency
   
   <pre class="kode code-toolbar  language-css"><code id="depCodeGradle" class=" kode  language-css">	<span class="token selector">dependencies</span> <span class="token punctuation">{</span>
-	        implementation <span class="token string">'com.github.CormacKrum:EmojiUtil:Tag'</span>
+	        implementation <span class="token string">'com.github.CormacKrum:EmojiUtil:0.0.1'</span>
 	<span class="token punctuation">}</span>
 </code></pre>
 
